@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChildForm1.cs](./CS/WindowsFormsApplication1/ChildForm1.cs) (VB: [ChildForm1.vb](./VB/WindowsFormsApplication1/ChildForm1.vb))
+* [ChildForm2.cs](./CS/WindowsFormsApplication1/ChildForm2.cs) (VB: [ChildForm2.vb](./VB/WindowsFormsApplication1/ChildForm2.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+<!-- default file list end -->
 # How to enable XtraTabbedMdiManager to change a selected page by drag&drop
 
 
